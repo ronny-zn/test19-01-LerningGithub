@@ -1,4 +1,4 @@
-Hola clase!
+Adiós clase!
 
 
-Versión de desarrollo en un Branch
+Versión 2 de desarrollo en un Branch
